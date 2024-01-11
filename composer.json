@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "require": {
+        "bopboy/onedb": "1.0.0"
+    }
+}

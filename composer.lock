@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7a4e5da72a33cfda1c2eb96f53298260",
+    "packages": [
+        {
+            "name": "bopboy/onedb",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bopboy/php-micro-framework.git",
+                "reference": "1cdf06ab12cb77d69bec3ea19cd0b6d1c3c14045"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bopboy/php-micro-framework/zipball/1cdf06ab12cb77d69bec3ea19cd0b6d1c3c14045",
+                "reference": "1cdf06ab12cb77d69bec3ea19cd0b6d1c3c14045",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Onedb\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "bopboy",
+                    "email": "scp0000@yahoo.com"
+                }
+            ],
+            "description": "onedb is a simple micro framework--",
+            "support": {
+                "issues": "https://github.com/bopboy/php-micro-framework/issues",
+                "source": "https://github.com/bopboy/php-micro-framework/tree/v1.0.0"
+            },
+            "time": "2024-01-11T03:06:41+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
