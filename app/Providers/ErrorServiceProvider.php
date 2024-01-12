@@ -5,7 +5,7 @@ use Onedb\Support\ServiceProvider;
 
 class ErrorServiceProvider extends ServiceProvider {
     public static function register() {
-        set_error_handler(function($errno, $errstr,$errfile, $errline) {
+        set_error_handler(function($errno, $errstr, $errfile, $errline) {
             throw new \ErrorException($errstr, 0, $errno, $errfile, $errline);
         });
         set_exception_handler(function($e) {

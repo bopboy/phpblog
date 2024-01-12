@@ -1,0 +1,576 @@
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 0)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 0)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 0)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 0)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 4)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Database/Adaptor.php:9
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Database/Adaptor.php(9): PDO->__construct('mysql:dbname=le...', 'root', 'root')
+#1 /Users/mac/Desktop/phpblog/app/Providers/DatabaseServiceProvider.php(12): Onedb\Database\Adaptor::setup('mysql:dbname=le...', 'root', 'root')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(11): App\Providers\DatabaseServiceProvider::register()
+#3 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\D...', 3)
+#4 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(11): array_walk(Array, Object(Closure))
+#5 /Users/mac/Desktop/phpblog/bootstrap/app.php(6): Onedb\Application->__construct(Array)
+#6 /Users/mac/Desktop/phpblog/public/index.php(5): require_once('/Users/mac/Desk...')
+#7 {main}
+PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Database/Adaptor.php:9
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Database/Adaptor.php(9): PDO->__construct('mysql:dbname=le...', 'root', 'root')
+#1 /Users/mac/Desktop/phpblog/app/Providers/DatabaseServiceProvider.php(12): Onedb\Database\Adaptor::setup('mysql:dbname=le...', 'root', 'root')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(11): App\Providers\DatabaseServiceProvider::register()
+#3 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\D...', 3)
+#4 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(11): array_walk(Array, Object(Closure))
+#5 /Users/mac/Desktop/phpblog/bootstrap/app.php(6): Onedb\Application->__construct(Array)
+#6 /Users/mac/Desktop/phpblog/public/index.php(5): require_once('/Users/mac/Desk...')
+#7 {main}
+PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Database/Adaptor.php:9
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Database/Adaptor.php(9): PDO->__construct('mysql:dbname=le...', 'root', 'root')
+#1 /Users/mac/Desktop/phpblog/app/Providers/DatabaseServiceProvider.php(12): Onedb\Database\Adaptor::setup('mysql:dbname=le...', 'root', 'root')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(11): App\Providers\DatabaseServiceProvider::register()
+#3 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\D...', 3)
+#4 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(11): array_walk(Array, Object(Closure))
+#5 /Users/mac/Desktop/phpblog/bootstrap/app.php(6): Onedb\Application->__construct(Array)
+#6 /Users/mac/Desktop/phpblog/public/index.php(5): require_once('/Users/mac/Desk...')
+#7 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
+ErrorException: Invalid argument supplied for foreach() in /Users/mac/Desktop/phpblog/resources/views/index.php:3
+Stack trace:
+#0 /Users/mac/Desktop/phpblog/resources/views/index.php(3): App\Providers\ErrorServiceProvider::App\Providers\{closure}(2, 'Invalid argumen...', '/Users/mac/Desk...', 3, Array)
+#1 /Users/mac/Desktop/phpblog/resources/views/layouts/app.php(32): require_once('/Users/mac/Desk...')
+#2 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Support/Theme.php(14): require_once('/Users/mac/Desk...')
+#3 /Users/mac/Desktop/phpblog/app/Controllers/IndexController.php(12): Onedb\Support\Theme::view('index', Array)
+#4 [internal function]: App\Controllers\IndexController::index()
+#5 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Routing/Route.php(18): call_user_func('\\App\\Controller...')
+#6 /Users/mac/Desktop/phpblog/app/Providers/RouteServiceProvider.php(13): Onedb\Routing\Route::run()
+#7 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): App\Providers\RouteServiceProvider::boot()
+#8 [internal function]: Onedb\Application->Onedb\{closure}('App\\Providers\\R...', 1)
+#9 /Users/mac/Desktop/phpblog/vendor/bopboy/onedb/src/Application.php(14): array_walk(Array, Object(Closure))
+#10 /Users/mac/Desktop/phpblog/public/index.php(6): Onedb\Application->boot()
+#11 {main}
